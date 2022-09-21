@@ -1,0 +1,2 @@
+pandas==1.4.2
+google-cloud-speech==2.15.1
